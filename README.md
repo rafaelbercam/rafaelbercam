@@ -1,32 +1,39 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1573637905/7091/travolta.gif?1573637905" width="30"/> Hi there! </h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi there! </h1>
 
-### Welcome to my github 
+### Welcome to Berçam's github 
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on Automated Tests Projects
 - 🤔 I’m looking for help with Mobile Development
 - 💬 Ask me about Automation Tests
 - ⚡ Fun fact: Woodworker & Musician
+<h1><img src="https://media.giphy.com/media/l1KVb2dUcmuGG4tby/giphy.gif" width="350" height: 400px/></h1>
 
 
-### Languages & Tools 🛠
-
-
+#### 👨‍💻 Programming languages
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=yellow)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=blue)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby&logoColor=red)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=blue)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Clojure](https://img.shields.io/badge/-Clojure-05122A?style=flat&logo=Clojure)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=amazon-dynamodb)&nbsp;
 
-
+#### 🧰 Tools, frameworks and libraries
+![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=cachet)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=green)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=ffb9b4)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=Gradle)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
@@ -36,20 +43,26 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
 ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Cypres](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer&logoColor=white)&nbsp;
+🎭![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=&logoColor=white&)&nbsp;
 
+#### 🗄️ Databases and cloud hosting
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=Heroku&logoColor=purple)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=Oracle&logoColor=red)&nbsp;
 
+#### 💻 Operating System
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
 
-![Cypres](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer&logoColor=white)&nbsp;
-🎭![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=Playwright&logoColor=white&)&nbsp;
+
 
 
 ### Analytics ⚙️
@@ -66,27 +79,10 @@
 </a>
 </p>
 
-<!--img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
-<!-- <p align="left">
-<a href="https://github.com/rafaelbercam">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbercam"/>
-  <img height="180em" src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/main/profile-summary-card-output/github/4-productive-time.svg"/>
-</a>
-</p> -->
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
-
-<!-- <img width="100%" src="https://github.com/rafaelbercam/rafaelbercam/blob/main/github-metrics.svg" /> -->
-<!-- ![Metrics](https://github.com/rafaelbercam/rafaelbercam/blob/main/metrics.plugin.achievements.svg) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbercam&theme=default)
 
-### Let's connect ? 🤝
+### My networks, Let's connect ? 🤝
 
 <p align="left">
 <a href="https://www.linkedin.com/in/🤓-rafael-berçam-918a4718/"><img src="https://img.shields.io/badge/-rafaelbercam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
