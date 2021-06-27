@@ -84,6 +84,8 @@
 <!-- <img width="100%" src="https://github.com/rafaelbercam/rafaelbercam/blob/main/github-metrics.svg" /> -->
 <!-- ![Metrics](https://github.com/rafaelbercam/rafaelbercam/blob/main/metrics.plugin.achievements.svg) -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbercam&theme=vue)
+
 ### Let's connect ? 🤝
 
 <p align="left">
