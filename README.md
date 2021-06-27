@@ -29,6 +29,7 @@
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=amazon-dynamodb)&nbsp;
 
 #### 🧰 Tools, frameworks and libraries
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=blue)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=cachet)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
