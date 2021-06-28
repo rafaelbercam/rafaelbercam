@@ -30,6 +30,14 @@
 
 #### 🧰 Tools, frameworks and libraries
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=blue)&nbsp;
+![RSpec](https://img.shields.io/badge/-RSpec-05122A?style=flat&logo=ruby&logoColor=red)&nbsp;
+![RubyMine](https://img.shields.io/badge/-RubyMine-05122A?style=flat&logo=JetBrains&logoColor=red)&nbsp;
+![Chai](https://img.shields.io/badge/-Chai-05122A?style=flat&logo=Chai&logoColor=red)&nbsp;
+![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=Mocha)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=pink)&nbsp;
+![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=Babel)&nbsp;
+![Espresso](https://img.shields.io/badge/-Espresso-05122A?style=flat&logo=android&logoColor=green)&nbsp;
+![XCUITest](https://img.shields.io/badge/-XCUITest-05122A?style=flat&logo=apple)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=cachet)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -49,7 +57,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Cypres](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer&logoColor=white)&nbsp;
-🎭![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=&logoColor=white&)&nbsp;
+![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=node.js&logoColor=green)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=Pycharm&logoColor=green)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android-studio)&nbsp;
 
 #### 🗄️ Databases and cloud hosting
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
@@ -57,6 +67,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=Heroku&logoColor=purple)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=Oracle&logoColor=red)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=Redis)&nbsp;
 
 #### 💻 Operating System
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
