@@ -46,6 +46,7 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=Gradle)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=Gitlab)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -60,6 +61,8 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=node.js&logoColor=green)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=Pycharm&logoColor=green)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android-studio)&nbsp;
+![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=selenium&logoColor=purple)&nbsp;
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-05122A?style=flat&logo=WebdriverIO)&nbsp;
 
 #### 🗄️ Databases and cloud hosting
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
