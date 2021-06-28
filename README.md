@@ -13,7 +13,7 @@
 
 
 #### 👨‍💻 Programming languages
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&link=https://www.gnu.org/software/bash/)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=yellow)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=blue)&nbsp;
