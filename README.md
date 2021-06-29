@@ -1,5 +1,5 @@
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi there! </h1>
+<h1 id="home"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi there! </h1>
 
 ### Welcome to Berçam's github 
 
@@ -15,20 +15,20 @@
 #### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-React%20-%23525252.svg?style=flat&logo=React&logoColor=blue&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Ruby%20-%23525252.svg?style=flat&logo=Ruby&logoColor=red&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Golang%20-%23525252.svg?style=flat&logo=go&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Markdown%20-%23525252.svg?style=flat&logo=markdown&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Dart%20-%23525252.svg?style=flat&logo=Dart&logoColor=blue&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Nodejs%20-%23525252.svg?style=flat&logo=node.js&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Python%20-%23525252.svg?style=flat&logo=Python&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/-Clojure%20-%23525252.svg?style=flat&logo=Clojure&"></a>
-    <a href="https://github.com/rafaelbercam"><img src=https://img.shields.io/badge/SQL%20-%23525252.svg?style=flat&logo=amazon-dynamodb&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-React%20-%23525252.svg?style=flat&logo=React&logoColor=blue&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Ruby%20-%23525252.svg?style=flat&logo=Ruby&logoColor=red&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Golang%20-%23525252.svg?style=flat&logo=go&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Markdown%20-%23525252.svg?style=flat&logo=markdown&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Dart%20-%23525252.svg?style=flat&logo=Dart&logoColor=blue&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Nodejs%20-%23525252.svg?style=flat&logo=node.js&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Python%20-%23525252.svg?style=flat&logo=Python&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/-Clojure%20-%23525252.svg?style=flat&logo=Clojure&"></a>
+    <a href="#home"><img src=https://img.shields.io/badge/SQL%20-%23525252.svg?style=flat&logo=amazon-dynamodb&"></a>
 </p>
 
 
