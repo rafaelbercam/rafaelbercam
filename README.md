@@ -72,7 +72,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=Oracle&logoColor=red)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=Redis)&nbsp;
 
-#### 💻 Operating System
+#### 💻 Operational systems
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
