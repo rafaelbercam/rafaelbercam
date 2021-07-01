@@ -123,7 +123,7 @@
 ### My networks, Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/🤓-rafael-berçam-918a4718/"><img src="https://img.shields.io/badge/-rafaelbercam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rafaelbercam/"><img src="https://img.shields.io/badge/-rafaelbercam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/rbercam"><img src="https://img.shields.io/badge/-@rbercam-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://medium.com/@faelbercam"><img src="https://img.shields.io/badge/-@faelbercam-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 <a href="https://dev.to/rafaelbercam"><img src="https://img.shields.io/badge/-rafaelbercam-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
