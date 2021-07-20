@@ -1,7 +1,7 @@
 
 <h1 id="home"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi there! </h1>
 
-### Welcome to Berçam's github 
+### Welcome to my github 
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
 - 🌱 I’m currently learning Flutter
