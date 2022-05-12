@@ -1,12 +1,12 @@
 
-<h1 id="home"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi there! </h1>
+<h1 id="home"><img src="https://media0.giphy.com/media/ZYEc9eVxlZWWu4VnQu/giphy.gif" width="60"/> Hi there!</h1>
 
 ### Welcome to my github 
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter%20-%23525252.svg?style=flat&logo=Flutter&logoColor=blue&)
 - 👯 I’m looking to collaborate on Automated Tests Projects
-- 🤔 I’m looking for help with Mobile Development
+- 🤔 I’m looking for help with iOS development ![Swift](https://img.shields.io/badge/-Swift%20-%23525252.svg?style=flat&logo=Swift)
 - 💬 Ask me about Automation Tests
 - ⚡ Fun fact: Woodworker & Musician
 <h1><img src="https://media.giphy.com/media/l1KVb2dUcmuGG4tby/giphy.gif" width="350" height: 400px/></h1>
@@ -15,6 +15,7 @@
 #### 👨‍💻 Programming languages
 ![Shell](https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&)
 ![Java](https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&)
+![Swift](https://img.shields.io/badge/-Swift%20-%23525252.svg?style=flat&logo=Swift)
 ![C++](https://img.shields.io/badge/-C++%20-%23525252.svg?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&)
@@ -117,6 +118,9 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=Boilerplates&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br></br><br></br><br></br>
