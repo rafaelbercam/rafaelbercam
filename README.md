@@ -11,6 +11,9 @@
 - ⚡ Fun fact: Woodworker & Musician
 
 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/rbercam)
+
+
 #### 👨‍💻 Programming languages
 ![Shell](https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&)
 ![Java](https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&)
