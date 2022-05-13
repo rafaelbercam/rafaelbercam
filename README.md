@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with iOS development ![Swift](https://img.shields.io/badge/-Swift%20-%23525252.svg?style=flat&logo=Swift)
 - 💬 Ask me about Automation Tests
 - ⚡ Fun fact: Woodworker & Musician
-<h1><img src="https://media.giphy.com/media/l1KVb2dUcmuGG4tby/giphy.gif" width="350" height: 400px/></h1>
 
 
 #### 👨‍💻 Programming languages
