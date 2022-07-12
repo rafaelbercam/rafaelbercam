@@ -4,9 +4,8 @@
 ### Welcome to my github 
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
-- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&)
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&) + ![Spring](https://img.shields.io/badge/-Spring%20-%23525252.svg?style=flat&logo=spring&logoColor=green&)
 - 👯 I’m looking to collaborate on Automated Tests Projects
-- 🤔 I’m looking for help with backend development ![Spring](https://img.shields.io/badge/-Spring%20-%23525252.svg?style=flat&logo=spring&logoColor=green&)
 - 💬 Ask me about Automation Tests
 - ⚡ Fun fact: Woodworker & Musician
 
