@@ -115,13 +115,20 @@
 <h2 align="center">👨‍💻 Recommended Repositories </h2>
 <br>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured" title="API Testing with Java"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
   <a align="left" href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=Boilerplates&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
-<br></br><br></br><br></br>
+<br></br><br></br><br></br><br></br>
+
 
 ### My networks, Let's connect ? 🤝
 
