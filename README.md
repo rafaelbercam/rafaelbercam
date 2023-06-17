@@ -127,7 +127,7 @@
   <a align="left" href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
-<br></br><br></br><br></br><br></br>
+<br></br><br></br><br></br><br></br><br></br><br></br>
 
 
 ### My networks, Let's connect ? 🤝
