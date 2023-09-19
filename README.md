@@ -4,7 +4,7 @@
 ### Welcome to my github 
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python%20-%23525252.svg?style=flat&logo=Python&) + FastAPI
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python%20-%23525252.svg?style=flat&logo=Python&) + ![Python](https://img.shields.io/badge/-FastAPI%20-%23525252.svg?style=flat&logo=Python&)
 - 👯 I’m looking to collaborate on Automated Tests Projects
 - 💬 Ask me about Automation Tests
 - ⚡ Fun fact: Woodworker & Musician
