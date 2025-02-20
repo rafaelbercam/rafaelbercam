@@ -111,24 +111,65 @@
 
 
 
-<h2 align="center">👨‍💻 Recommended Repositories </h2>
+# Hi there, I'm Rafael Bercam!
+
+## 🚀 About Me
+I'm a **Quality Analyst Specialist** with a passion for **Automation Testing** and software quality assurance. I have experience working with **backend and frontend test automation**, CI/CD pipelines, and performance testing. I'm always exploring new technologies to enhance software reliability and efficiency.
+
+💼 **Currently working at:** [Zup Innovation](https://github.com/ZupIT)  
+📌 **Specialized in:** Automated Testing, Software Quality, and DevOps  
+🎸 **Fun fact:** Woodworker & Musician
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Programming Languages**
+- **Java**, **Python**, **JavaScript**, **TypeScript**, **Ruby**, **Swift**, **Go**, **Kotlin**, **C++**, **Dart**, **Clojure**, **SQL**
+
+### **Test Automation Frameworks**
+- **Selenium**, **Cypress**, **Playwright**, **WebdriverIO**, **Appium**, **JUnit**, **RSpec**, **XCUITest**, **Espresso**
+
+### **DevOps & CI/CD**
+- **GitHub Actions**, **GitLab CI/CD**, **Jenkins**, **CircleCI**, **Docker**, **Kubernetes**, **Terraform**
+
+### **Cloud & Databases**
+- **AWS**, **Azure**, **Google Cloud**, **PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **Oracle**, **ElasticSearch**
+
+### **Other Tools & Frameworks**
+- **Spring Boot**, **FastAPI**, **Node.js**, **React**, **Flutter**, **Kafka**, **Postman**, **Maven**, **Gradle**
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbercam" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafaelbercam&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&hide=HCL"/>
+</p>
+
+---
+
+## 🔥 Recommended Repositories
+
+<h2 align="center">👨‍💻 Featured Repositories </h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured" title="API Testing with Java"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-</br>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates"><img align="left" height="97" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=Boilerplates&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos">
+    <img width="200" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured" title="API Testing with Java">
+    <img width="200" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates">
+    <img width="200" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=Boilerplates&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript">
+    <img width="200" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/>
-<br></br><br></br><br></br><br></br><br></br><br></br>
+
 
 
 ### My networks, Let's connect ? 🤝
