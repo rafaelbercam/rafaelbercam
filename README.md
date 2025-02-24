@@ -111,44 +111,6 @@
 
 
 
-# Hi there, I'm Rafael Bercam!
-
-## 🚀 About Me
-I'm a **Quality Analyst Specialist** with a passion for **Automation Testing** and software quality assurance. I have experience working with **backend and frontend test automation**, CI/CD pipelines, and performance testing. I'm always exploring new technologies to enhance software reliability and efficiency.
-
-💼 **Currently working at:** [Zup Innovation](https://github.com/ZupIT)  
-📌 **Specialized in:** Automated Testing, Software Quality, and DevOps  
-🎸 **Fun fact:** Woodworker & Musician
-
----
-
-## 🛠️ Skills & Technologies
-
-### **Programming Languages**
-- **Java**, **Python**, **JavaScript**, **TypeScript**, **Ruby**, **Swift**, **Go**, **Kotlin**, **C++**, **Dart**, **Clojure**, **SQL**
-
-### **Test Automation Frameworks**
-- **Selenium**, **Cypress**, **Playwright**, **WebdriverIO**, **Appium**, **JUnit**, **RSpec**, **XCUITest**, **Espresso**
-
-### **DevOps & CI/CD**
-- **GitHub Actions**, **GitLab CI/CD**, **Jenkins**, **CircleCI**, **Docker**, **Kubernetes**, **Terraform**
-
-### **Cloud & Databases**
-- **AWS**, **Azure**, **Google Cloud**, **PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **Oracle**, **ElasticSearch**
-
-### **Other Tools & Frameworks**
-- **Spring Boot**, **FastAPI**, **Node.js**, **React**, **Flutter**, **Kafka**, **Postman**, **Maven**, **Gradle**
-
----
-
-## 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbercam" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafaelbercam&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&hide=HCL"/>
-</p>
-
----
 
 ## 🔥 Recommended Repositories
 
