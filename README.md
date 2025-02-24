@@ -114,7 +114,6 @@
 
 ## 🔥 Recommended Repositories
 
-<h2 align="center">👨‍💻 Featured Repositories </h2>
 <br>
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos">
