@@ -1,5 +1,5 @@
 
-<h1 id="home"><img src="https://media0.giphy.com/media/ZYEc9eVxlZWWu4VnQu/giphy.gif" width="80"/> Hi there!</h1>
+<h1 id="home"><img src="https://media0.giphy.com/media/ZYEc9eVxlZWWu4VnQu/giphy.gif" width="80"/> Hi there! | Olá </h1>
 
 ### Welcome to my github 
 
