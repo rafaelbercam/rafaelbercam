@@ -142,4 +142,3 @@
 <a href="https://dev.to/rafaelbercam"><img src="https://img.shields.io/badge/-rafaelbercam-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="mailto:faelbercam@gmail.com"><img src="https://img.shields.io/badge/-faelbercam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
