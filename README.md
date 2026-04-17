@@ -77,9 +77,8 @@ Aqui estão alguns dos meus projetos mais relevantes, focados em boilerplates pa
 
 ## 📫 Contato
 
-- **Email**: [seuemail@example.com](mailto:seuemail@example.com)
-- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seuusuario)
-- **Twitter**: [@seuusuario](https://twitter.com/seuusuario)
+- **Email**: [faelbercam@gmail.com](mailto:faelbercam@gmail.com)
+- **LinkedIn**: [Rafael Berçam](https://br.linkedin.com/in/rafaelbercam)
 
 Fique à vontade para entrar em contato para colaborações ou discussões sobre tecnologia!
 
