@@ -6,25 +6,23 @@
 Olá! Sou um profissional apaixonado por tecnologia, atualmente trabalhando na [Zup Innovation](https://github.com/ZupIT). Tenho experiência em desenvolvimento de software, com foco especial em testes automatizados e automação de processos.
 
 - 🔭 **Trabalho Atual**: Desenvolvedor na Zup Innovation
-- 🌱 **Aprendendo**: Python e FastAPI para desenvolvimento backend
+- 🌱 **Aprendendo**: Python, FastAPI, AI Generativa, MCP e Jornada Agentic AI
+- ☁️ **Estudando**: AWS Associate
 - 👯 **Colaboração**: Busco projetos relacionados a testes automatizados
-- 💬 **Pergunte-me sobre**: Testes de automação, desenvolvimento full-stack
+- 💬 **Pergunte-me sobre**: Testes de automação, desenvolvimento full-stack, AI Generativa
 - ⚡ **Fato Divertido**: Apaixonado por marcenaria e música
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbercam&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </div>
 
 ### 🔥 Sequência de Commits
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbercam" />
-</p>
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=rafaelbercam&theme=dark&border=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 ## 🛠️ Habilidades Técnicas
 
@@ -84,44 +82,48 @@ Fique à vontade para entrar em contato para colaborações ou discussões sobre
 
 ---
 
-*Última atualização: Abril 2026*  
-  
-<p align="left">
-<a href="https://github.com/rafaelbercam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafaelbercam&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
-
-
-
-[![](https://raw.githubusercontent.com/rafaelbercam/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
+*Última atualização: Abril 2026*
 
 ## 🔥 Repositórios Recomendados
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; justify-items: center;">
-  <a href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos">
-    <img width="220" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=dark&border_color=374151&border_radius=15&show_owner=true">
-  </a>
-  <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured" title="API Testing with Java">
-    <img width="220" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=dark&border_color=374151&border_radius=15&show_owner=true">
-  </a>
-  <a href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates">
-    <img width="220" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplates&theme=dark&border_color=374151&border_radius=15&show_owner=true">
-  </a>
-  <a href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript">
-    <img width="220" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=dark&border_color=374151&border_radius=15&show_owner=true">
-  </a>
+<div align="center" style="overflow-x:auto; padding: 12px 0; margin: 0 -16px;">
+  <div style="display:inline-flex; gap:18px; padding-bottom:8px; scroll-snap-type:x mandatory;">
+    <a href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplates&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="Boilerplates" style="width:100%; height:140px; object-fit:cover; display:block;">
+      <div style="padding:14px;">
+        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">Boilerplates</h4>
+        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Coleção de boilerplates para testes automatizados em API, Web e Mobile.</p>
+      </div>
+    </a>
+    <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured" title="API Testing with Java" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="API Testing with Java" style="width:100%; height:140px; object-fit:cover; display:block;">
+      <div style="padding:14px;">
+        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">API Testing with Java</h4>
+        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Boilerplate para automação de testes de API com REST-assured em Java.</p>
+      </div>
+    </a>
+    <a href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="API Tests with TypeScript" style="width:100%; height:140px; object-fit:cover; display:block;">
+      <div style="padding:14px;">
+        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">API Tests with TypeScript</h4>
+        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Boilerplate com Mocha, Chai e TypeScript para testes de API.</p>
+      </div>
+    </a>
+    <a href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="Cursos e Treinamentos" style="width:100%; height:140px; object-fit:cover; display:block;">
+      <div style="padding:14px;">
+        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">Cursos e Treinamentos</h4>
+        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Material de apoio com cursos, treinamentos e estudos práticos.</p>
+      </div>
+    </a>
+  </div>
 </div>
 
 
 
-### My networks, Let's connect ? 🤝
+### 🌐 Vamos nos conectar? 🤝
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/rafaelbercam/"><img src="https://img.shields.io/badge/-rafaelbercam-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/rbercam"><img src="https://img.shields.io/badge/-@rbercam-%3333?style=flat&logo=x&logoColor=white"/></a>
 <a href="https://medium.com/@faelbercam"><img src="https://img.shields.io/badge/-@faelbercam-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
