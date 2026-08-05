@@ -15,11 +15,23 @@ Olá! Sou um profissional apaixonado por tecnologia, atualmente trabalhando na [
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbercam&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" height="165"/>
-  <img height="165em" src="https://streak-stats.demolab.com?user=rafaelbercam&theme=dark&border=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-one-ashen-94.vercel.app/api?username=rafaelbercam&show_icons=true&count_private=true&theme=dark&rank_icon=github" alt="GitHub Stats" height="195"/>
+  <img height="195em" src="https://streak-stats.demolab.com?user=rafaelbercam&theme=dark&border=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-ashen-94.vercel.app/api/top-langs/?username=rafaelbercam&layout=donut&langs_count=8&theme=dark" alt="Top Languages" />
+</div>
+
+### 📈 Atividade de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelbercam&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+### 🐍 Contribuições em Tempo Real
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaelbercam/rafaelbercam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ## 🛠️ Habilidades Técnicas
@@ -101,11 +113,11 @@ Aqui estão alguns dos meus projetos mais relevantes, focados em boilerplates pa
 - **[Web Testing with Playwright](https://github.com/rafaelbercam/boilerplate-playwright)**: Boilerplate para automação de testes web usando Playwright.
 
 <p align="center">
-  <a href="https://github.com/rafaelbercam/boilerplates"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplates&theme=dark" width="410"/></a>
-  <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=dark" width="410"/></a>
+  <a href="https://github.com/rafaelbercam/boilerplates"><img src="https://github-readme-stats-one-ashen-94.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplates&theme=dark" width="410"/></a>
+  <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured"><img src="https://github-readme-stats-one-ashen-94.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=dark" width="410"/></a>
   <br/>
-  <a href="https://github.com/rafaelbercam/api-tests-typescript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=dark" width="410"/></a>
-  <a href="https://github.com/rafaelbercam/courses-and-training"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=dark" width="410"/></a>
+  <a href="https://github.com/rafaelbercam/api-tests-typescript"><img src="https://github-readme-stats-one-ashen-94.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=dark" width="410"/></a>
+  <a href="https://github.com/rafaelbercam/courses-and-training"><img src="https://github-readme-stats-one-ashen-94.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=dark" width="410"/></a>
 </p>
 
 ## 📫 Contato
