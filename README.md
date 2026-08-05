@@ -25,7 +25,7 @@ Olá! Sou um profissional apaixonado por tecnologia, atualmente trabalhando na [
 ### 📈 Atividade de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelbercam&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph-acme-09fb.vercel.app/graph?username=rafaelbercam&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ### 🐍 Contribuições em Tempo Real
