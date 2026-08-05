@@ -1,5 +1,5 @@
 
-<h1 id="home"><img src="https://media0.giphy.com/media/ZYEc9eVxlZWWu4VnQu/giphy.gif" width="80"/> Hi there! | Olá </h1>
+<h1 align="center"><img src="https://media0.giphy.com/media/ZYEc9eVxlZWWu4VnQu/giphy.gif" width="80"/><br/>Hi there! | Olá 👋</h1>
 
 ## 👨‍💻 Sobre Mim
 
@@ -15,52 +15,81 @@ Olá! Sou um profissional apaixonado por tecnologia, atualmente trabalhando na [
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbercam&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbercam&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" height="165"/>
+  <img height="165em" src="https://streak-stats.demolab.com?user=rafaelbercam&theme=dark&border=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-
-### 🔥 Sequência de Commits
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=rafaelbercam&theme=dark&border=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercam&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </div>
 
 ## 🛠️ Habilidades Técnicas
 
-### Linguagens de Programação
-| | | | | |
-|---|---|---|---|---|
-| ![Shell](https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&) | ![Java](https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&) | ![Swift](https://img.shields.io/badge/-Swift%20-%23525252.svg?style=flat&logo=Swift) | ![C++](https://img.shields.io/badge/-C++%20-%23525252.svg?style=flat-square&logo=c) | ![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&) | ![React](https://img.shields.io/badge/-React%20-%23525252.svg?style=flat&logo=React&logoColor=blue&) | ![Ruby](https://img.shields.io/badge/-Ruby%20-%23525252.svg?style=flat&logo=Ruby&logoColor=red&) | ![Go](https://img.shields.io/badge/-Golang%20-%23525252.svg?style=flat&logo=go&) | ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&) |
-| ![Python](https://img.shields.io/badge/-Python%20-%23525252.svg?style=flat&logo=Python&) | ![Dart](https://img.shields.io/badge/-Dart%20-%23525252.svg?style=flat&logo=Dart&logoColor=blue&) | ![Clojure](https://img.shields.io/badge/-Clojure%20-%23525252.svg?style=flat&logo=Clojure&) | ![SQL](https://img.shields.io/badge/SQL%20-%23525252.svg?style=flat&logo=amazon-dynamodb&) | ![HTML5](https://img.shields.io/badge/-HTML5%20-%23525252.svg?style=flat-square&logo=html5&logoColor=orange) |
-| ![CSS3](https://img.shields.io/badge/-CSS3%20-%23525252.svg?style=flat-square&logo=css3&logoColor=blue) | ![Markdown](https://img.shields.io/badge/-Markdown%20-%23525252.svg?style=flat&logo=markdown&) | ![Node.js](https://img.shields.io/badge/-Nodejs%20-%23525252.svg?style=flat&logo=node.js&) | | |
+**Linguagens**
+<p>
+<img src="https://img.shields.io/badge/-Java-525252?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeScript-525252?style=flat&logo=typescript&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-JavaScript-525252?style=flat&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-Python-525252?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/-Kotlin-525252?style=flat&logo=kotlin"/>
+<img src="https://img.shields.io/badge/-Swift-525252?style=flat&logo=swift"/>
+<img src="https://img.shields.io/badge/-Ruby-525252?style=flat&logo=ruby&logoColor=red"/>
+<img src="https://img.shields.io/badge/-Go-525252?style=flat&logo=go"/>
+<img src="https://img.shields.io/badge/-Dart-525252?style=flat&logo=dart&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-SQL-525252?style=flat&logo=amazon-dynamodb"/>
+<img src="https://img.shields.io/badge/-Shell-525252?style=flat&logo=gnu-bash"/>
+</p>
 
-### Frameworks e Bibliotecas
-| | | | | |
-|---|---|---|---|---|
-| ![Flutter](https://img.shields.io/badge/-Flutter%20-%23525252.svg?style=flat&logo=Flutter&logoColor=blue&) | ![Spring](https://img.shields.io/badge/-Spring%20-%23525252.svg?style=flat&logo=spring&logoColor=green&) | ![Jest](https://img.shields.io/badge/-Jest%20-%23525252.svg?style=flat&logo=Jest&logoColor=pink&) | ![Mocha](https://img.shields.io/badge/-Mocha%20-%23525252.svg?style=flat&logo=Mocha&) | ![Chai](https://img.shields.io/badge/-Chai%20-%23525252.svg?style=flat&logo=Chai&logoColor=red&) |
-| ![Babel](https://img.shields.io/badge/-Babel%20-%23525252.svg?style=flat&logo=Babel&) | ![Electron](https://img.shields.io/badge/-Electron%20-%23525252.svg?style=flat&logo=Electron&logoColor=white&) | ![RSpec](https://img.shields.io/badge/-RSpec%20-%23525252.svg?style=flat&logo=ruby&logoColor=red&) | ![JUnit](https://img.shields.io/badge/-JUnit%20-%23525252.svg?style=flat&logo=cachet&) | ![Espresso](https://img.shields.io/badge/-Espresso%20-%23525252.svg?style=flat&logo=android&logoColor=green&) |
-| ![XCUITest](https://img.shields.io/badge/-XCUITest%20-%23525252.svg?style=flat&logo=apple&) | ![Cucumber](https://img.shields.io/badge/-Cucumber%20-%23525252.svg?style=flat&logo=cucumber&) | ![Selenium](https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&) | ![Cypress](https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&) | ![Puppeteer](https://img.shields.io/badge/-Puppeteer%20-%23525252.svg?style=flat&logo=Puppeteer&logoColor=white&) |
-| ![Playwright](https://img.shields.io/badge/-Playwright%20-%23525252.svg?style=flat&logo=Microsoft&logoColor=blue&) | ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO%20-%23525252.svg?style=flat&logo=WebdriverIO) | ![Appium](https://img.shields.io/badge/-Appium%20-%23525252.svg?style=flat&logo=selenium&logoColor=purple&) | | |
+**Testes & Automação**
+<p>
+<img src="https://img.shields.io/badge/-REST%20Assured-525252?style=flat&logo=cachet"/>
+<img src="https://img.shields.io/badge/-JUnit-525252?style=flat&logo=cachet"/>
+<img src="https://img.shields.io/badge/-Cypress-525252?style=flat&logo=cypress"/>
+<img src="https://img.shields.io/badge/-Playwright-525252?style=flat&logo=microsoft&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Selenium-525252?style=flat&logo=selenium"/>
+<img src="https://img.shields.io/badge/-Appium-525252?style=flat&logo=selenium&logoColor=purple"/>
+<img src="https://img.shields.io/badge/-WebdriverIO-525252?style=flat&logo=webdriverio"/>
+<img src="https://img.shields.io/badge/-Cucumber-525252?style=flat&logo=cucumber"/>
+<img src="https://img.shields.io/badge/-XCUITest-525252?style=flat&logo=apple"/>
+<img src="https://img.shields.io/badge/-Espresso-525252?style=flat&logo=android&logoColor=green"/>
+<img src="https://img.shields.io/badge/-Mocha-525252?style=flat&logo=mocha"/>
+<img src="https://img.shields.io/badge/-Chai-525252?style=flat&logo=chai&logoColor=red"/>
+<img src="https://img.shields.io/badge/-Postman-525252?style=flat&logo=postman"/>
+</p>
 
-### Ferramentas e Plataformas
-| | | | | |
-|---|---|---|---|---|
-| ![Docker](https://img.shields.io/badge/-Docker%20-%23525252.svg?style=flat&logo=docker&) | ![Kafka](https://img.shields.io/badge/-Kafka%20-%23525252.svg?style=flat&logo=apache-kafka&) | ![Maven](https://img.shields.io/badge/-Maven%20-%23525252.svg?style=flat&logo=apache-maven&logoColor=ffb9b4&) | ![Gradle](https://img.shields.io/badge/-Gradle%20-%23525252.svg?style=flat&logo=Gradle&) | ![Git](https://img.shields.io/badge/-Git%20-%23525252.svg?style=flat&logo=git&) |
-| ![GitHub](https://img.shields.io/badge/-GitHub%20-%23525252.svg?style=flat&logo=github&) | ![GitLab](https://img.shields.io/badge/-Gitlab%20-%23525252.svg?style=flat&logo=Gitlab&) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20%20-%23525252.svg?style=flat&logo=github-actions&logoColor=white&) | ![CircleCI](https://img.shields.io/badge/CircleCI%20-%23525252.svg?style=flat&logo=circleci&logoColor=white&) | ![Jenkins](https://img.shields.io/badge/Jenkins%20-%23525252.svg?style=flat&logo=Jenkins&) |
-| ![Postman](https://img.shields.io/badge/-Postman%20-%23525252.svg?style=flat&logo=postman&) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23525252.svg?style=flat&logo=visual-studio-code&logoColor=007ACC&) | ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&) | ![PyCharm](https://img.shields.io/badge/-PyCharm%20-%23525252.svg?style=flat&logo=Pycharm&logoColor=green&) | ![Android Studio](https://img.shields.io/badge/-AndroidStudio%20-%23525252.svg?style=flat&logo=android-studio&) |
-| ![RubyMine](https://img.shields.io/badge/-RubyMine%20-%23525252.svg?style=flat&logo=JetBrains&logoColor=red&) | | | | |
+**Frameworks & Runtime**
+<p>
+<img src="https://img.shields.io/badge/-Spring-525252?style=flat&logo=spring&logoColor=green"/>
+<img src="https://img.shields.io/badge/-Node.js-525252?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/-React-525252?style=flat&logo=react&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Flutter-525252?style=flat&logo=flutter&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-FastAPI-525252?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/-Electron-525252?style=flat&logo=electron&logoColor=white"/>
+</p>
 
-### Bancos de Dados e Cloud
-| | | | | |
-|---|---|---|---|---|
-| ![MySQL](https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20-%23525252.svg?style=flat&logo=postgresql&) | ![MongoDB](https://img.shields.io/badge/MongoDB%20-%23525252.svg?style=flat&logo=MongoDB&) | ![Redis](https://img.shields.io/badge/Redis%20-%23525252.svg?style=flat&logo=Redis&) | ![Oracle](https://img.shields.io/badge/Oracle%20-%23525252.svg?style=flat&logo=Oracle&logoColor=red&) |
-| ![Elasticsearch](https://img.shields.io/badge/-ElasticSearch%20-%23525252.svg?style=flat-square&logo=elasticsearch) | ![Heroku](https://img.shields.io/badge/Heroku%20-%23525252.svg?style=flat&logo=Heroku&logoColor=purple&) | ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean%20-%23525252.svg??style=flat-square&logo=digitalocean) | ![AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23525252.svg?style=flat-square&logo=amazon-aws&logoColor=orange) | ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20-%23525252.svg?style=flat-square&logo=microsoft-azure&logoColor=blue) |
-| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20-%23525252.svg?style=flat-square&logo=google-cloud) | ![BitBucket](https://img.shields.io/badge/-BitBucket%20-%23525252.svg?style=flat-square&logo=bitbucket&logoColor=blue) | | | |
+**Cloud, Dados & DevOps**
+<p>
+<img src="https://img.shields.io/badge/-AWS-525252?style=flat&logo=amazon-aws&logoColor=orange"/>
+<img src="https://img.shields.io/badge/-Azure-525252?style=flat&logo=microsoft-azure&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Google%20Cloud-525252?style=flat&logo=google-cloud"/>
+<img src="https://img.shields.io/badge/-Docker-525252?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/-Kafka-525252?style=flat&logo=apache-kafka"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-525252?style=flat&logo=postgresql"/>
+<img src="https://img.shields.io/badge/-MySQL-525252?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-525252?style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Redis-525252?style=flat&logo=redis"/>
+<img src="https://img.shields.io/badge/-GitHub%20Actions-525252?style=flat&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Jenkins-525252?style=flat&logo=jenkins"/>
+</p>
 
-### Sistemas Operacionais
-| | | |
-|---|---|---|
-| ![Linux](https://img.shields.io/badge/-Linux%20-%23525252.svg?style=flat&logo=linux&logoColor=white&) | ![macOS](https://img.shields.io/badge/-MacOS%20-%23525252.svg?style=flat&logo=apple&) | ![Windows](https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&) |
+**Ferramentas**
+<p>
+<img src="https://img.shields.io/badge/-Git-525252?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/-VS%20Code-525252?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/-IntelliJ-525252?style=flat&logo=jetbrains"/>
+<img src="https://img.shields.io/badge/-Android%20Studio-525252?style=flat&logo=android-studio"/>
+<img src="https://img.shields.io/badge/-Linux-525252?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-macOS-525252?style=flat&logo=apple"/>
+</p>
 
 ## 🚀 Projetos em Destaque
 
@@ -71,62 +100,22 @@ Aqui estão alguns dos meus projetos mais relevantes, focados em boilerplates pa
 - **[API Tests with TypeScript](https://github.com/rafaelbercam/api-tests-typescript)**: Boilerplate para testes de API com Mocha, Chai e TypeScript.
 - **[Web Testing with Playwright](https://github.com/rafaelbercam/boilerplate-playwright)**: Boilerplate para automação de testes web usando Playwright.
 
-*(Esses projetos fazem parte da minha coleção de boilerplates, disponíveis em [rafaelbercam/boilerplates](https://github.com/rafaelbercam/boilerplates).)*
+<p align="center">
+  <a href="https://github.com/rafaelbercam/boilerplates"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplates&theme=dark" width="410"/></a>
+  <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=dark" width="410"/></a>
+  <br/>
+  <a href="https://github.com/rafaelbercam/api-tests-typescript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=dark" width="410"/></a>
+  <a href="https://github.com/rafaelbercam/courses-and-training"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=dark" width="410"/></a>
+</p>
 
 ## 📫 Contato
 
-- **Email**: [faelbercam@gmail.com](mailto:faelbercam@gmail.com)
-- **LinkedIn**: [Rafael Berçam](https://br.linkedin.com/in/rafaelbercam)
-
-Fique à vontade para entrar em contato para colaborações ou discussões sobre tecnologia!
-
----
-
-*Última atualização: Abril 2026*
-
-## 🔥 Repositórios Recomendados
-
-<div align="center" style="overflow-x:auto; padding: 12px 0; margin: 0 -16px;">
-  <div style="display:inline-flex; gap:18px; padding-bottom:8px; scroll-snap-type:x mandatory;">
-    <a href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplates&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="Boilerplates" style="width:100%; height:140px; object-fit:cover; display:block;">
-      <div style="padding:14px;">
-        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">Boilerplates</h4>
-        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Coleção de boilerplates para testes automatizados em API, Web e Mobile.</p>
-      </div>
-    </a>
-    <a href="https://github.com/rafaelbercam/boilerplate-api-test-rest-assured" title="API Testing with Java" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=boilerplate-api-test-rest-assured&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="API Testing with Java" style="width:100%; height:140px; object-fit:cover; display:block;">
-      <div style="padding:14px;">
-        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">API Testing with Java</h4>
-        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Boilerplate para automação de testes de API com REST-assured em Java.</p>
-      </div>
-    </a>
-    <a href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="API Tests with TypeScript" style="width:100%; height:140px; object-fit:cover; display:block;">
-      <div style="padding:14px;">
-        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">API Tests with TypeScript</h4>
-        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Boilerplate com Mocha, Chai e TypeScript para testes de API.</p>
-      </div>
-    </a>
-    <a href="https://github.com/rafaelbercam/courses-and-training" title="Cursos e Treinamentos" style="scroll-snap-align:start; min-width:260px; max-width:260px; background:#0d1117; border:1px solid #30363d; border-radius:18px; box-shadow:0 18px 40px rgba(0,0,0,0.25); overflow:hidden; text-decoration:none; color:inherit;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=courses-and-training&theme=dark&border_color=374151&border_radius=0&show_owner=true" alt="Cursos e Treinamentos" style="width:100%; height:140px; object-fit:cover; display:block;">
-      <div style="padding:14px;">
-        <h4 style="margin:0 0 8px; font-size:16px; color:#c9d1d9;">Cursos e Treinamentos</h4>
-        <p style="margin:0; font-size:13px; color:#8b949e; line-height:1.5;">Material de apoio com cursos, treinamentos e estudos práticos.</p>
-      </div>
-    </a>
-  </div>
-</div>
-
-
-
-### 🌐 Vamos nos conectar? 🤝
-
 <p align="center">
 <a href="https://www.linkedin.com/in/rafaelbercam/"><img src="https://img.shields.io/badge/-rafaelbercam-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/rbercam"><img src="https://img.shields.io/badge/-@rbercam-%3333?style=flat&logo=x&logoColor=white"/></a>
-<a href="https://medium.com/@faelbercam"><img src="https://img.shields.io/badge/-@faelbercam-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/rafaelbercam"><img src="https://img.shields.io/badge/-rafaelbercam-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://x.com/rbercam"><img src="https://img.shields.io/badge/-@rbercam-333333?style=flat&logo=x&logoColor=white"/></a>
+<a href="https://medium.com/@faelbercam"><img src="https://img.shields.io/badge/-@faelbercam-12100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/rafaelbercam"><img src="https://img.shields.io/badge/-rafaelbercam-12100E?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="mailto:faelbercam@gmail.com"><img src="https://img.shields.io/badge/-faelbercam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+Fique à vontade para entrar em contato para colaborações ou discussões sobre tecnologia!
